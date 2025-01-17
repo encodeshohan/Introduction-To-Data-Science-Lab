@@ -13,14 +13,14 @@ This project extracts text data from an online movie database using web scraping
 - **Type**: Category (TV Series or Movie)
 
 ## 🔧 Preprocessing Steps
-✔ **Web Scraping**: Extracts text data from online sources.
-✔ **Text Cleaning**: Removes unwanted characters and noise from the text.
-✔ **Tokenization**: Splits text into meaningful units (tokens).
-✔ **Normalization**: Standardizes text formats.
-✔ **Stop Words Removal**: Eliminates commonly used words that add little value.
-✔ **Stemming and Lemmatization**: Reduces words to their root forms.
-✔ **Handling Contractions**: Expands shortened words.
-✔ **Handling Emojis and Emoticons**: Converts emojis and emoticons to text.
+✔ **Web Scraping**: Extracts text data from online sources. <br>
+✔ **Text Cleaning**: Removes unwanted characters and noise from the text.<br>
+✔ **Tokenization**: Splits text into meaningful units (tokens).<br>
+✔ **Normalization**: Standardizes text formats.<br>
+✔ **Stop Words Removal**: Eliminates commonly used words that add little value.<br>
+✔ **Stemming and Lemmatization**: Reduces words to their root forms.<br>
+✔ **Handling Contractions**: Expands shortened words.<br>
+✔ **Handling Emojis and Emoticons**: Converts emojis and emoticons to text.<br>
 ✔ **Spell Checking**: Detects and corrects spelling errors.
 
 ## 📚 Technologies Used
