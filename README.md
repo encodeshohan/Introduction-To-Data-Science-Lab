@@ -11,7 +11,7 @@ This repository contains lab exercises and projects from the **Introduction to D
 
 ## 🔧 Technologies Used
 - **Language**: R
-- **Libraries**: `dplyr`, `ggplot2`, `caret`, `rvest`, `textstem`, etc.
+- **Libraries**: `dplyr`, `ggplot2`, `caret`, `rvest`, `textstem`, etc. 
 
 ## 📊 Key Learnings
 ✅ Data manipulation and visualization  
