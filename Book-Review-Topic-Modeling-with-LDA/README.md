@@ -33,3 +33,6 @@ This project focuses on performing **Topic Modeling** on book reviews from *Good
 - **Larger Dataset**: Apply the methodology to a larger set of book reviews for broader insights.
 - **Real-Time Scraping**: Automate data scraping to update reviews in real-time.
 - **Dashboard Integration**: Build interactive dashboards for dynamic exploration of topics and trends.
+
+## ⚖️ License
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
