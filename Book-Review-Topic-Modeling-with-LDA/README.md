@@ -1,6 +1,6 @@
 # 📖 Book Review Topic Modeling with LDA
 
-## 📊 Overview
+## ✨ Overview
 This project focuses on performing **Topic Modeling** on book reviews from *Goodreads* for the book "Some We Love, Some We Hate, Some We Eat". Using **Latent Dirichlet Allocation (LDA)**, we analyze the themes and dominant topics within the reviews. The project includes web scraping, data preprocessing, topic extraction, and various visualizations.
 
 ## 📂 Content
@@ -11,7 +11,7 @@ This project focuses on performing **Topic Modeling** on book reviews from *Good
 - **Visualization**: Plotting topics, word clouds, and interactive visualizations using **LDAvis** and **ggraph**.
 - **Hierarchical Clustering**: Clustering topics to identify relationships.
 
-## 📙 Technologies Used
+## 🛠️ Technologies Used
 - **R Language**
 - **Libraries**:
   - `rvest` for web scraping
@@ -21,7 +21,7 @@ This project focuses on performing **Topic Modeling** on book reviews from *Good
   - `ggplot2`, `ggraph`, `viridis`, `wordcloud` for visualization
   - `LDAvis` for interactive topic visualization
 
-## 💡 Getting Started
+## ⚙ Getting Started
 
 ### Prerequisites
 Ensure you have **R** installed with the following libraries:
