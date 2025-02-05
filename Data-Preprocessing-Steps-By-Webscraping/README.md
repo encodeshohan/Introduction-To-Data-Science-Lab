@@ -1,4 +1,4 @@
-# Text Data Preprocessing for NLP
+# ֎ Text Data Preprocessing for NLP
 
 ## 📌 Overview
 This project focuses on developing a comprehensive and efficient text data preprocessing pipeline to enhance the performance of natural language processing (NLP) models. Preprocessing text data is a crucial step in NLP projects as it involves cleaning, transforming, and structuring raw text into a format that models can effectively interpret and learn from.
