@@ -1,4 +1,4 @@
-# Loan Approval Data Preprocessing and Analysis
+# 💰 Loan Approval Data Preprocessing and Analysis
 
 ## 📌 Overview  
 This project focuses on preprocessing and analyzing a loan approval dataset containing 14 attributes. It involves handling missing values, removing duplicates and outliers, normalizing data, encoding categorical variables, and addressing class imbalance. The final processed dataset is prepared for further machine learning applications.  
