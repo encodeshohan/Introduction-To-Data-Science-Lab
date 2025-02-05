@@ -7,6 +7,7 @@ This repository contains lab exercises and projects from the **Introduction to D
 - ✔ **Lab Exercises** – Step-by-step practical tasks in R
 - ✔ **Data Preprocessing** – Cleaning and transforming raw data
 - ✔ **Web Scraping** – Extracting data from websites
+- ✔ **Topic Modeling** – Extracting topic from dataset
 - ✔ **Supervised Learning** – Implementing machine learning models
 
 ## 🔧 Technologies Used
@@ -16,6 +17,7 @@ This repository contains lab exercises and projects from the **Introduction to D
 ## 📊 Key Learnings
 ✅ Data manipulation and visualization  
 ✅ Web scraping and text processing  
+✅ Topic Modeling  
 ✅ Machine learning fundamentals  
 
 ## 🛠 How to Use
