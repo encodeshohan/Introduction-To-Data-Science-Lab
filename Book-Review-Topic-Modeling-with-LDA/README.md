@@ -27,13 +27,9 @@ This project focuses on performing **Topic Modeling** on book reviews from *Good
 - **Interactive LDA Visualization**: Explore topics with **LDAvis**.
 - **Topic Clustering Dendrogram**: Hierarchical clustering of topics.
 
-## 💪 Key Results
-- Successfully scraped and cleaned book reviews from Goodreads.
-- Identified **12 key topics** related to ethics, animal rights, and human-animal relationships.
-- Generated insightful visualizations highlighting topic dominance and interrelations.
-
-## 🤝 Contributing
-Feel free to **fork**, **open issues**, or **submit pull requests** to enhance this project!
-
-## ⭐ Support
-If you found this project helpful, give it a ⭐ and follow for more exciting projects!
+## 🔮 Future Scope
+- **Sentiment Analysis**: Integrate sentiment analysis to gauge reviewers' emotional tone.
+- **Model Comparison**: Experiment with alternative topic modeling techniques like **NMF** or **BERTopic**.
+- **Larger Dataset**: Apply the methodology to a larger set of book reviews for broader insights.
+- **Real-Time Scraping**: Automate data scraping to update reviews in real-time.
+- **Dashboard Integration**: Build interactive dashboards for dynamic exploration of topics and trends.
