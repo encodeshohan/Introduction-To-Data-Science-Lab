@@ -36,3 +36,6 @@ This project extracts text data from an online movie database using web scraping
 - Implement Named Entity Recognition (NER) and Sentiment Analysis.
 - Develop a recommendation system based on text data.
 - Integrate with machine learning models for further text classification.
+
+## ⚖️ License
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
