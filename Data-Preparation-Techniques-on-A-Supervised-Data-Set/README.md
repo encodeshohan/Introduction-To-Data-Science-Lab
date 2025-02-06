@@ -35,3 +35,6 @@ The dataset consists of **201 instances** and **14 attributes**, including:
 - Feature Engineering & Selection  
 - Implementing ML Models (Logistic Regression, Decision Trees, etc.)  
 - Model Evaluation & Optimization  
+
+## ⚖️ License
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
